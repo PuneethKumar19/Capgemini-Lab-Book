@@ -1,0 +1,10 @@
+package com.cg.clb.lab1;
+
+public class IncreasingNumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
